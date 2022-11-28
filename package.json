@@ -1,0 +1,22 @@
+{
+  "name": "programy",
+  "version": "1.0.0",
+  "description": "Display ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayvid123/Two-factor-authentication-module.git"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "divya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayvid123/Two-factor-authentication-module/issues"
+  },
+  "homepage": "https://github.com/ayvid123/Two-factor-authentication-module#readme"
+}
